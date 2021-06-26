@@ -111,3 +111,8 @@ Java Creational Design Pattern Practice
   - Rules of thumb:
     - The Factory Method pattern can be used to encapsulate the creation logic for objects. However, it does not manage them after their creation, the object pool pattern keeps track of the objects it creates.
     - Object Pools are usually implemented as Singletons.
+
+Reference :
+
+- 	https://sourcemaking.com/design_patterns
+- 	https://refactoring.guru/design-patterns 
