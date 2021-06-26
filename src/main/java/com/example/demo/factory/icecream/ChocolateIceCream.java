@@ -9,7 +9,6 @@ public class ChocolateIceCream implements IceCream {
     this.calories = calories;
   }
 
-
   @Override
   public Integer getCost() {
     return cost;
