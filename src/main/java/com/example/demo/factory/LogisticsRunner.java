@@ -16,6 +16,10 @@ public class LogisticsRunner {
         logistics.planLogistics();
     }
 
+    /**
+     * @param logisticChannel
+     * @return
+     */
     private static Logistics configure(String logisticChannel){
         switch(logisticChannel){
             case "ROAD":
